@@ -1,0 +1,9 @@
+c:\users\jozhus\documents\visual studio 2012\Projects\Herbivore data collector\Herbivore data collector\bin\Debug\Herbivore data collector.exe.config
+c:\users\jozhus\documents\visual studio 2012\Projects\Herbivore data collector\Herbivore data collector\bin\Debug\Herbivore data collector.exe
+c:\users\jozhus\documents\visual studio 2012\Projects\Herbivore data collector\Herbivore data collector\bin\Debug\Herbivore data collector.pdb
+c:\users\jozhus\documents\visual studio 2012\Projects\Herbivore data collector\Herbivore data collector\obj\Debug\Herbivore data collector.csprojResolveAssemblyReference.cache
+c:\users\jozhus\documents\visual studio 2012\Projects\Herbivore data collector\Herbivore data collector\obj\Debug\Herbivore_data_collector.Form1.resources
+c:\users\jozhus\documents\visual studio 2012\Projects\Herbivore data collector\Herbivore data collector\obj\Debug\Herbivore_data_collector.Properties.Resources.resources
+c:\users\jozhus\documents\visual studio 2012\Projects\Herbivore data collector\Herbivore data collector\obj\Debug\Herbivore data collector.csproj.GenerateResource.Cache
+c:\users\jozhus\documents\visual studio 2012\Projects\Herbivore data collector\Herbivore data collector\obj\Debug\Herbivore data collector.exe
+c:\users\jozhus\documents\visual studio 2012\Projects\Herbivore data collector\Herbivore data collector\obj\Debug\Herbivore data collector.pdb
